@@ -1,0 +1,7 @@
+Open Registry Editor
+Go to this path: Computer\HKEY_CLASSES_ROOT\Directory\Background\shell 
+Right click on Shell and choose New -> key
+Name the new key the program you want to be in your context menu
+Right click on the new entry, and choose New -> key
+name the new key command
+Open the default file under command and paste the executable path of your program in the "Value Data" Field.

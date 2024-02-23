@@ -1,0 +1,7 @@
+Go to this path: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+
+Right-click the blank area and choose New > DWORD (32-bit) Value, then name it Start_ShowClassicMode
+
+Set to one of the below values
+0 = Use the new Windows 11 Start Menu
+1 = Enable Windows 10 ‘Classic’ Start Menu

@@ -1,0 +1,2 @@
+Go to HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced and create a new DWORD value named EnableSnapAssistFlyout.
+To disable Snap Assist Flyout, set the value data to 0. To enable it, set the value data to 1.

@@ -1,0 +1,4 @@
+pen the Registry Editor and navigate to Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search
+Here, right-click in the right pane and create a new DWORD (32-bit) Value.
+
+Rename it to AllowCortana. Now, change the value data to 0 and click on “OK”. Finally, close the Registry Editor and restart the PC. Cortana will now be disabled on your Windows 11 PC.

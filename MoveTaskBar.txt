@@ -1,0 +1,11 @@
+go to Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\StuckRects3
+
+Edit the Settings Key
+Go to the second row, 5th value from the left and set it to one of the below values
+
+00 - left
+01 - Top
+02 - right
+03 - Bottom
+
+Click ok and restart explorer.

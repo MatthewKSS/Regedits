@@ -1,0 +1,8 @@
+Open the Registry Editor and move to the below path.
+Computer\HKEY_CURRENT_USER\Software\Classes\CLSID
+
+Here, right-click on “CLSID” and create a new key in the left sidebar. Then, set the below string as {86ca1aa0-34aa-4e8b-a509-50c905bae2a2}. 
+After that, right-click on the said key, create a new key again, and rename it as InprocServer32.
+
+ Under “InprocServer32”, open the Default file in the right pane and click on “OK”. No need to enter any value.
+ 

@@ -1,0 +1,7 @@
+Bypasses lock screen and goes straight to sign in screen
+
+ go to the following location:
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
+create a new key call 'Personalization"
+right click the new key and create a new DWord named "NoLockScreen"
+Set the value to 1

@@ -1,0 +1,9 @@
+Access the below-mentioned location.
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
+
+Here select the System entry and then right-click on the white space in the right panel and select New > DWORD (32-bit) Value.
+
+Name this new entry “verbosestatus” and double-click on it and change its value to 1.
+
+Now your PC will tell you exactly what processes it is starting or closing when you start or shut down the PC.

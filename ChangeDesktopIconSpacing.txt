@@ -1,0 +1,10 @@
+move to the following location.
+
+HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics
+
+While the WindowMetrics entry is selected, you will see many entries in the right panel. Here IconSpacing and IconVerticalSpacing entries control the space between desktop icons.
+IconSpacing manages horizontal space
+IconVerticalSpacing decides the vertical space between icons
+the value of both is set to -1125. You can increase and decrease this number to increase and decrease the space
+
+Restart Explorer

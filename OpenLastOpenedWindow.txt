@@ -1,0 +1,11 @@
+info:  change this behavior so when you click on the app with multiple windows open, it will open the last opened window instantly. And if you want to choose a different window, you can hover over the icon and thumbnails will show up to choose a different window.
+
+move to the following location.
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+
+While Advanced entry is selected, right-click on the white space in the right panel and select New > DWORD (32-bit) Value.
+
+Name this new entry as “LastActiveClick” and then double-click on it and set its value to 1.
+
+Restart Explorer

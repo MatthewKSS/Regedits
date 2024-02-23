@@ -1,0 +1,3 @@
+After Registry edit is made, change the lock screen timeout in Power Plan > Advanced Power Settings > Console Lock Display off timeout.
+
+Change the value in Minutes, change the value to 0 for no timeout.

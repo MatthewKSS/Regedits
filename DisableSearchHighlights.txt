@@ -1,0 +1,4 @@
+Open the Registry Editor and move to Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\SearchSettings
+ Now, open “IsDynamicSearchBoxEnabled“.
+
+change the Value data to 0 if you wish to disable Search Highlights in Windows
